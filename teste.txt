@@ -3,6 +3,7 @@ Apagar as Dll´s abaixo dentro da pasta do X8 no sistema:
 RMPCUNLR.dll
 HMPCUNLR.dll
 
+hdd
 2º Passo após a Instalação
 Criar regras de entrada e saída bloqueando o X8 no firewall do Windows
 
