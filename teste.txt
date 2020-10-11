@@ -1,0 +1,16 @@
+1º Passo após a Instalação
+Apagar as Dll´s abaixo dentro da pasta do X8 no sistema:
+RMPCUNLR.dll
+HMPCUNLR.dll
+
+2º Passo após a Instalação
+Criar regras de entrada e saída bloqueando o X8 no firewall do Windows
+
+3º Passo após a Instalação
+Localizar o arquivo Hosts no caminho abaixo:
+C:/windows/system32/drivers/etc/
+
+Abrir hosts com bloco de notas e colocar as linhas abaixo:
+127.0.0.1 localhost corel.com
+127.0.0.1 localhost apps.corel.com
+127.0.0.1 localhost mc.corel.com
